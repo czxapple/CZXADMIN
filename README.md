@@ -112,5 +112,5 @@
 ![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-(31).png)
 
 
-Thanks   ![][foryou]
+__Thanks__   ![][foryou]
 [foryou]:https://github.com/czxapple/Resource/blob/master/foryou.gif
