@@ -110,3 +110,7 @@
 
     其它角色对应角色后面授权菜单权限
 ![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-(31).png)
+
+
+Thanks   ![][foryou]
+[foryou]:https://github.com/czxapple/Resource/blob/master/foryou.gif
