@@ -2,8 +2,8 @@
 >### 示例:
 
     登录界面：背景用HTML5特效自动切换(百叶窗，幕布等多种切换方式)
-![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-(26).png)
-![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-(27).png)
+![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-%20B1.png)
+![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-%20B2.png)
 
     首页
 ![alt](https://github.com/czxapple/Resource/blob/master/ADMIN-%20(3).png)
